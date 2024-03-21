@@ -16,7 +16,7 @@ I am Rediet, a Cloud Practitioner skilled in AWS and Azure☁️ . I'm passionat
 
 🚀 Designing and implementing scalable and resilient cloud infrastructures on AWS and Azure.
 
-💻  Crafting efficient and maintainable code (Python and C#) for various projects  using .
+💻  Crafting efficient and maintainable code (Python and C#) for various projects.
 
 🔧  Solving complex technical challenges with creative and innovative solutions.
 
