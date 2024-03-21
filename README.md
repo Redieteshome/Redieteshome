@@ -1,8 +1,8 @@
-# Hello and Welcome!👋
+### Hello and Welcome!👋
 
 I am Rediet, a Cloud Practitioner skilled in AWS and Azure☁️ . I'm passionate about leveraging technology to drive innovation and solve real-world problems🌍. 
 
-## About me 
+### About me 
 
   📝  You can get my works here
   
@@ -12,7 +12,7 @@ I am Rediet, a Cloud Practitioner skilled in AWS and Azure☁️ . I'm passionat
   
   💻 As a Python enthusiast, I love crafting elegant solutions to complex problems and automating tedious tasks.
    
-## My Expertise
+### My Expertise
 
 🚀 Designing and implementing scalable and resilient cloud infrastructures on AWS and Azure.
 
@@ -24,7 +24,7 @@ I am Rediet, a Cloud Practitioner skilled in AWS and Azure☁️ . I'm passionat
 
 🌟  Fueling my work with a deep passion for technology and a drive to make a positive impact.
 
- ## Let's Link up
+ ### Let's Link up
 
 📫 **GitHub:** : https://github.com/Redieteshome
 
