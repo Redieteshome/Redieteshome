@@ -1,6 +1,6 @@
 ### Hello and Welcome!👋
 
-I am Rediet, a Cloud Practitioner skilled in AWS and Azure☁️ . I'm passionate about leveraging technology to drive innovation and solve real-world problems🌍. 
+I am Rediet, a data Analyst and Cloud Enginner skilled in AWS and Azure☁️ . I'm passionate about leveraging technology to drive innovation and solve real-world problems🌍. 
 
 ### About me 
 
